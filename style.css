@@ -1,0 +1,36 @@
+body{
+  display:flex;
+  justify-content: center;
+  
+  background-image: url(images/cupcake.png);
+  background-color: #573824DF;
+  background-blend-mode: soft-light;
+  background-position: 40%;
+  background-size: 270%;
+  backdrop-filter: blur(12px);
+  background-repeat: no-repeat;
+ 
+}
+#box{
+  width: 64%;
+  max-width: 800px;
+}
+#container{
+  box-sizing: border-box;
+  width: 100%;
+  padding: 2%;
+  background-color: #F0E8C2;
+  border-radius: 1em;
+}
+
+
+
+#cupcake{
+  width: 100%;
+  height: auto;
+  border-radius: 1em;
+}
+
+#creditos{
+  text-align: center;
+}
