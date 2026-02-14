@@ -1,1 +1,1 @@
-Projeto desenvolvido em aula da Rocketseat, tentativa de replicar o design antes de acompanhar o processo em aula.
+Projeto desenvolvido em aula da Rocketseat, revisado acompanhando o restante das aulas.
